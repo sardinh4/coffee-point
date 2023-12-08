@@ -23,4 +23,4 @@ https://youtu.be/TVFu4-Kd4oM
 
 🔗 Link da Demo da Página:
 
-https://sardinh4.github.io/Page-De-Um-Site-De-Restaurante/
+ https://sardinh4.github.io/Pagina-de-uma-Cafeteria/
