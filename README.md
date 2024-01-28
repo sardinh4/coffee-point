@@ -23,4 +23,4 @@ O Projeto foi desenvolvido com base no vídeo do youtube "How To Make A Responsi
 
 🔗 Link da Demo da Página:
 
-- https://sardinh4.github.io/Parallax-Page/
+- https://sardinh4.github.io/coffee-point/
